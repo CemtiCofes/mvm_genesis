@@ -1931,8 +1931,8 @@ population
 			MaxActive	1
 			SpawnCount	1
 			Where	spawnbot
-			WaitBeforeStarting	20
-			WaitBetweenSpawns	20
+			WaitBeforeStarting	40
+			WaitBetweenSpawns	40
 			Squad
 			{
 				TFBot
@@ -1972,8 +1972,8 @@ population
 			Where	spawnbot_upper0
 			Where	spawnbot_upper1
 			Where	spawnbot_upper2
-			WaitBeforeStarting	20
-			WaitBetweenSpawns	20
+			WaitBeforeStarting	60
+			WaitBetweenSpawns	40
 			Squad
 			{
 				TFBot
