@@ -947,7 +947,7 @@ population
 			{
 				TFBot
 				{
-					Health	375
+					Health	150
 					Name	"Small Warrior"
 					Class	Scout
 					Skill	Easy
