@@ -26,6 +26,7 @@ Here are unique bots that spawn in these missions:
 - Armored Marksman
 - Mysterious Rogue
 - Rogue Leader (Gatebot)
+- Monty
 - Large Warrior
 - Boston Bully (Gatebot)
 - Wingman
@@ -44,6 +45,7 @@ Here are unique bots that spawn in these missions:
 - Mecha Daddy (Gatebot)
 - Captain Metalbeard (Boss, Gatebot)
 - War King (Boss, Gatebot)
+- Final Titan (Boss, Gatebot)
 
 ## Important Notice
 Restart the wave if any of this happens:
