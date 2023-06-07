@@ -630,7 +630,7 @@ population
 					Template	T_TFBot_Scout_Sandman_FastCharge
 					Attributes	"AlwaysCrit"
 					Item	"the bolt action blitzer"
-					Item	"mnc mascot outfit"
+					Item	"the essential accessories"
 					CharacterAttributes
 					{
 						"move speed penalty"	0.75
