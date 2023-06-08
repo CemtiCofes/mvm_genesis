@@ -923,7 +923,7 @@ population
 			{
 				TFBot
 				{
-					Health	500
+					Health	90
 					Name	"Pretty Boy"
 					Scale	1.5
 					BehaviorModifiers	Push
