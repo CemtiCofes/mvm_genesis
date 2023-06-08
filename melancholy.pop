@@ -306,6 +306,7 @@ population
 				TFBot
 				{
 					Name	"Armored Berserker"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Scout_Baseball_Armored
 					Attributes	"AlwaysCrit"
 					Item	"the boston basher"
@@ -335,6 +336,8 @@ population
 				TFBot
 				{
 					Name	"War Machine XXL"
+					ClassIcon	heavy_steelfist
+					Tag	bot_giant
 					Skill	Expert
 					Template	T_TFBot_Giant_Boxing_Heavy
 					Item	"fists of steel"
@@ -484,6 +487,7 @@ population
 					Name	"Mass Melter"
 					BehaviorModifiers	Push
 					Tag	bot_gatebot
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Pyro_Flare_Spammer
 					Attributes	"AlwaysFireWeapon"
 					Attributes	"IgnoreFlag"
@@ -627,6 +631,8 @@ population
 				{
 					Health	300
 					Name	"Armored Sandman"
+					ClassIcon	scout_stun_armored
+					Tag	bot_giant
 					Template	T_TFBot_Scout_Sandman_FastCharge
 					Attributes	"AlwaysCrit"
 					Item	"the bolt action blitzer"
@@ -691,6 +697,7 @@ population
 				{
 					Name	"Boston Bully"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Scout_Baseball
 					Attributes	"AlwaysCrit"
@@ -727,6 +734,7 @@ population
 					Health	6000
 					Name	"Pirate Captain"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Demo_RapidFire
 					Attributes	"AlwaysCrit"
@@ -764,6 +772,7 @@ population
 					Health	6000
 					Name	"Pirate Captain"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Demo_RapidFire
 					Attributes	"AlwaysCrit"
@@ -826,6 +835,7 @@ population
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
 					Tag	bot_gatebot
+					Tag	bot_giant
 					Class	Spy
 					Skill	Expert
 					Attributes	"IgnoreFlag"
@@ -1060,6 +1070,7 @@ population
 					Health	5000
 					Name	Corporal
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Soldier_Crit
 					Attributes	"AlwaysFireWeapon"
@@ -1218,6 +1229,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -1360,6 +1372,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -1393,6 +1406,7 @@ population
 				{
 					Health	2500
 					Name	"Colonel Lord"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Soldier_Extended_Battalion
 					Item	"the black box"
 					Item	"the grenadier's softcap"
@@ -1425,6 +1439,7 @@ population
 				{
 					Health	2500
 					Name	"Colonel Lord"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Soldier_Extended_Battalion
 					Item	"the black box"
 					Item	"the grenadier's softcap"
@@ -1628,6 +1643,8 @@ population
 				TFBot
 				{
 					Name	"War Machine XXL"
+					ClassIcon	heavy_steelfist
+					Tag	bot_giant
 					Skill	Expert
 					Template	T_TFBot_Giant_Boxing_Heavy
 					Item	"fists of steel"
@@ -1701,6 +1718,8 @@ population
 				TFBot
 				{
 					Name	"War Machine XXL"
+					ClassIcon	heavy_steelfist
+					Tag	bot_giant
 					Skill	Expert
 					Template	T_TFBot_Giant_Boxing_Heavy
 					Item	"fists of steel"
@@ -1860,6 +1879,7 @@ population
 				{
 					Health	200
 					Name	"Huo-Long Heater"
+					ClassIcon	heavy_heater
 					Class	HeavyWeapons
 					Skill	Normal
 					Item	"the huo long heatmaker"
@@ -1916,6 +1936,7 @@ population
 				{
 					Name	Tomislav
 					Template	T_TFBot_Giant_Heavyweapons
+					Tag	bot_giant
 					Item	"tomislav"
 					Item	"officer's ushanka"
 					Item	"the bolshevik biker"
@@ -1940,6 +1961,7 @@ population
 					Health	5000
 					Name	Corporal
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Soldier_Crit
 					Attributes	"AlwaysFireWeapon"
@@ -1981,6 +2003,7 @@ population
 					Health	5000
 					Name	Corporal
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Soldier_Crit
 					Attributes	"AlwaysFireWeapon"
@@ -2044,6 +2067,7 @@ population
 					Health	45000
 					Name	"Captain Metalbeard"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Skill	Expert
 					Template	T_TFBot_Giant_Metalbeard

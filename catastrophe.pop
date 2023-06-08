@@ -294,6 +294,7 @@ population
 				{
 					Health	3600
 					Name	Cannoneer
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Demo_Burst
 					Item	"the bolted bicorne"
 					Item	"the liquor locker"
@@ -428,6 +429,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -709,6 +711,7 @@ population
 				{
 					Health	2500
 					Name	"Colonel Lord"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Soldier_Extended_Battalion
 					Item	"the black box"
 					Item	"the grenadier's softcap"
@@ -831,6 +834,7 @@ population
 				{
 					Health	2500
 					Name	"Colonel Lord"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Soldier_Extended_Battalion
 					Item	"the black box"
 					Item	"the grenadier's softcap"
@@ -953,6 +957,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -1027,6 +1032,7 @@ population
 				{
 					Health	200
 					Name	"Huo-Long Heater"
+					ClassIcon	heavy_heater
 					Class	HeavyWeapons
 					Skill	Normal
 					Item	"the huo long heatmaker"
@@ -1247,6 +1253,7 @@ population
 				TFBot
 				{
 					Name	"Deflector Natascha"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Heavyweapons_Deflector
 					Item	"natascha"
 					Item	"officer's ushanka"
@@ -1274,6 +1281,7 @@ population
 				TFBot
 				{
 					Name	"Deflector Natascha"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Heavyweapons_Deflector
 					Item	"natascha"
 					Item	"officer's ushanka"
@@ -1383,6 +1391,7 @@ population
 				{
 					Health	280
 					Name	"Armored Marksman"
+					Tag	bot_giant
 					Class	Sniper
 					Skill	Expert
 					WeaponRestrictions	PrimaryOnly
@@ -1459,6 +1468,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -1545,6 +1555,8 @@ population
 			{
 				TFBot
 				{
+					Name	"Armored Berserker"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Scout_Baseball_Armored
 					Attributes	"AlwaysCrit"
 					Item	"the boston basher"
@@ -1575,6 +1587,7 @@ population
 				TFBot
 				{
 					Name	"Armored Berserker"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Scout_Baseball_Armored
 					Attributes	"AlwaysCrit"
 					Item	"the boston basher"
@@ -1623,6 +1636,7 @@ population
 				{
 					Health	100
 					Name	Pirate
+					Tag	bot_giant
 					Template	T_TFBot_Demoman_Knight
 					Item	"ali baba's wee booties"
 					Item	"the tide turner"
@@ -1654,6 +1668,7 @@ population
 					Health	4200
 					Name	"Royal Bodyguard"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Soldier
 					Attributes	"AlwaysCrit"
@@ -1690,6 +1705,7 @@ population
 					Health	4200
 					Name	"Royal Bodyguard"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Soldier
 					Attributes	"AlwaysCrit"
@@ -1722,6 +1738,7 @@ population
 				TFBot
 				{
 					Name	"Armored Berserker"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Scout_Baseball_Armored
 					Attributes	"AlwaysCrit"
 					Item	"the boston basher"
@@ -1861,6 +1878,7 @@ population
 				{
 					Health	5000
 					Name	Corporal
+					Tag	bot_giant
 					Tag	bot_gatebot
 					BehaviorModifiers	push
 					Template	T_TFBot_Giant_Soldier_Crit
@@ -2155,6 +2173,8 @@ population
 			{
 				TFBot
 				{
+					Name	Tomislav
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Heavyweapons
 					Item	"tomislav"
 					Item	"officer's ushanka"
@@ -2180,6 +2200,7 @@ population
 				TFBot
 				{
 					Name	Tomislav
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Heavyweapons
 					Item	"tomislav"
 					Item	"officer's ushanka"
@@ -2205,6 +2226,7 @@ population
 					Health	45000
 					Name	"War King"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Chief_Gauntlet
 					Attributes	"AlwaysCrit"

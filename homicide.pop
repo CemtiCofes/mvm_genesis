@@ -197,6 +197,7 @@ population
 				{
 					Name	"Boston Bully"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Scout_Baseball
 					Attributes	"AlwaysCrit"
@@ -303,6 +304,7 @@ population
 				{
 					Name	"Brass Beast"
 					BehaviorModifiers	push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Heavyweapons
 					Attributes	"SpawnWithFullCharge"
@@ -416,6 +418,7 @@ population
 				TFBot
 				{
 					Name	"Armored Flare"
+					Tag	bot_giant
 					Template	T_TFBot_Pyro_Flaregun
 					Attributes	"AlwaysCrit"
 					Item	"traffic cone"
@@ -448,6 +451,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -601,6 +605,7 @@ population
 				{
 					Name	"Boston Bully"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Scout_Baseball
 					Attributes	"AlwaysCrit"
@@ -673,6 +678,7 @@ population
 				{
 					Name	"Boston Bully"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Scout_Baseball
 					Attributes	"AlwaysCrit"
@@ -709,6 +715,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -810,6 +817,7 @@ population
 					Health	5000
 					Name	Corporal
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Soldier_Crit
 					Attributes	"AlwaysFireWeapon"
@@ -1033,6 +1041,8 @@ population
 				{
 					Health	300
 					Name	"Armored Sandman"
+					ClassIcon	scout_stun_armored
+					Tag	bot_giant
 					Template	T_TFBot_Scout_Sandman_FastCharge
 					Attributes	"AlwaysCrit"
 					Item	"the bolt action blitzer"
@@ -1120,6 +1130,7 @@ population
 				TFBot
 				{
 					Name	"Armored Berserker"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Scout_Baseball_Armored
 					Attributes	"AlwaysCrit"
 					Item	"the boston basher"
@@ -1499,6 +1510,7 @@ population
 				{
 					Name	"Boston Bully"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Scout_Baseball
 					Attributes	"AlwaysCrit"
@@ -1598,6 +1610,7 @@ population
 				{
 					Name	"Brass Beast"
 					BehaviorModifiers	push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Heavyweapons
 					Attributes	SpawnWithFullCharge
@@ -1631,6 +1644,7 @@ population
 				{
 					Name	"Boston Bully"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Giant_Scout_Baseball
 					Attributes	"AlwaysCrit"
@@ -1790,6 +1804,7 @@ population
 					Health	1200
 					Name	"Rogue Leader"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Class	Spy
 					Skill	Expert
@@ -2044,6 +2059,7 @@ population
 				{
 					Health	2500
 					Name	"Colonel Lord"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Soldier_Extended_Battalion
 					Item	"the black box"
 					Item	"the grenadier's softcap"
@@ -2275,6 +2291,8 @@ population
 				TFBot
 				{
 					Name	"War Machine XXL"
+					ClassIcon	heavy_steelfist
+					Tag	bot_giant
 					Skill	Expert
 					Template	T_TFBot_Giant_Boxing_Heavy
 					Item	"fists of steel"
@@ -2308,6 +2326,8 @@ population
 				TFBot
 				{
 					Name	"War Machine XXL"
+					ClassIcon	heavy_steelfist
+					Tag	bot_giant
 					Skill	Expert
 					Template	T_TFBot_Giant_Boxing_Heavy
 					Item	"fists of steel"
@@ -2486,6 +2506,7 @@ population
 				TFBot
 				{
 					Name	"Armored Berserker"
+					Tag	bot_giant
 					Template	T_TFBot_Giant_Scout_Baseball_Armored
 					Attributes	"AlwaysCrit"
 					Item	"the boston basher"
@@ -2515,6 +2536,7 @@ population
 				{
 					Health	200
 					Name	Monty
+					Tag	bot_giant
 					Class	Spy
 					Skill	Expert
 					Attributes	"AlwaysCrit"
@@ -2658,6 +2680,7 @@ population
 					Health	40000
 					Name	"Final Titan"
 					BehaviorModifiers	Push
+					Tag	bot_giant
 					Tag	bot_gatebot
 					Template	T_TFBot_Chief_Soldier
 					Attributes	"IgnoreFlag"
