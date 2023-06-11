@@ -1,6 +1,6 @@
 # MvM Custom Mission: GENESIS
 
-GENESIS contains 3 missions: Melancholy, Catastrophe, and Homicide. All missions are playable on Mannhattan.
+GENESIS is a collection of CentiCodes' custom missions.
 
 ## Bots
 Here are unique bots that spawn in these missions:
